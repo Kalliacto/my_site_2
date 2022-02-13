@@ -42,12 +42,13 @@ a:focus {
   margin-bottom: 40px;
   background-color: #ffffff;
   box-shadow: 0 2px 2px rgba(0, 0, 0, 0.2);
+  background-image: url("raccoons.svg");
 }
 
 .page-header .container {
   padding-top: 40px;
   padding-bottom: 40px;
-  background-image: url("img/raccoons.svg");
+  background-image: url("raccoons.svg");
   background-repeat: no-repeat;
   background-position: bottom right;
   background-size: 290px 212px;
